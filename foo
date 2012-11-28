@@ -1,11 +1,8 @@
-
-if (value == "test" || value == "test2") puts "I'm in!"
-if (value == "test" || value == "test2") puts "I'm in!"
 if (value == "test" || value == "test2") puts "I'm in!"
 
-This is a test
-Here is some code
-Here is some code
+This is some line of code
+printf("In it\n");
+This is some line of code
 
 for (int i = 0; i < 10; i++ ){
 	printf("I'm in the for loop!");
@@ -14,6 +11,8 @@ for (int i = 0; i < 10; i++ ){
 
 end 
 
+# redo of test merge files
+# modifying the comments section
 
 
 
