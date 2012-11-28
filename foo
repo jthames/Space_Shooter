@@ -1,11 +1,16 @@
 
 if (value == "test" || value == "test2") puts "I'm in!"
+if (value == "test" || value == "test2") puts "I'm in!"
+if (value == "test" || value == "test2") puts "I'm in!"
 
+This is a test
+Here is some code
+Here is some code
 
 end 
 # file has been merged with branch_one
 # file has been merged with branch2
-
+# file has been changed to include some dummy lines. Will copy and paste another similar file and see what happens
 
 
 
