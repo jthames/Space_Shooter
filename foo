@@ -17,6 +17,10 @@ for(r = -row/2; r < row_end; r++)
 		temp += kernel * in;
 		this is another line of code;
 
+System.out.println("here and there and everywher");
+System.out.println("here and there and everywher");
+System.out.println("here and there and everywher");
+System.out.println("here and there and everywher");
 
 end 
 
