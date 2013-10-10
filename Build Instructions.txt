@@ -1,0 +1,1 @@
+To run this code simply navigate to ..\Team2FinalDeliverable\Orion's_War and double click the Executable Jar File labeled "Orions_War" and the program will run.
